@@ -8,6 +8,8 @@ During the development process, I encountered numerous challenges. One of the mo
 
 Despite the hurdles, the project taught me valuable lessons in optimization and the intricacies of game development within a framework like React
 </p>
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
