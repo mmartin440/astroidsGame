@@ -8,9 +8,8 @@ During the development process, I encountered numerous challenges. One of the mo
 
 Despite the hurdles, the project taught me valuable lessons in optimization and the intricacies of game development within a framework like React
 </p>
-![95AA24C9-2DAA-49FF-87D1-4C03C1423D14](https://github.com/mmartin440/astroidsGame/assets/105955175/8db92262-04f3-4cd8-84c1-c04e786eaa76)
 
-<img src="" />
+<img src="https://github.com/mmartin440/astroidsGame/assets/105955175/8db92262-04f3-4cd8-84c1-c04e786eaa76" />
 
 
 ### `npm start`
